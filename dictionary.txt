@@ -1,0 +1,3 @@
+student:학생
+smart:영리한
+teacher:교사
